@@ -70,11 +70,6 @@ npm install
 npm run dev
 ```
 
-4. Open your browser and visit:
-```
-http://localhost:5173
-```
-
 ## Project Structure
 
 ```
@@ -90,4 +85,5 @@ ecommerce-react/
 └── index.html        # Entry HTML file
 ```
 
-
+Project live link:
+https://splendid-zabaione-4993f0.netlify.app/
