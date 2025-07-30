@@ -3,7 +3,7 @@ import { nodePolyfills } from 'vite-plugin-node-polyfills';
 
 export default defineConfig({
   base: '/',
-  plugins: [
+  plugins: [react(),
     nodePolyfills({
       include: ['buffer', 'crypto', 'events', 'stream', 'string_decoder', 'util'],
       globals: {
